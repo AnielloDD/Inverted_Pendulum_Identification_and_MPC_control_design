@@ -1,0 +1,31 @@
+<?xml-stylesheet href="defaultstyles.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:d="http://www.mathworks.com/blockgraphics" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg_3" width="32" height="32" viewBox="0 0 32 32">
+	<title>
+		file_type_matlab	</title>
+	<defs>
+		<linearGradient id="a" x1="16.803" y1="16.631" x2="15.013" y2="22.411" gradientTransform="matrix(1, 0, 0, -1, 0, 32)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#512"/>
+			<stop offset="0.23" stop-color="#523"/>
+			<stop offset="0.36" stop-color="#534"/>
+			<stop offset="0.51" stop-color="#645"/>
+			<stop offset="0.66" stop-color="#568"/>
+			<stop offset="0.84" stop-color="#29d"/>
+		</linearGradient>
+		<linearGradient id="b" x1="29.71" y1="18.983" x2="11.71" y2="14.563" gradientUnits="userSpaceOnUse">
+			<stop offset="0.081" stop-color="#c33"/>
+			<stop offset="0.189" stop-color="#de5239"/>
+			<stop offset="0.313" stop-color="#f06e3e"/>
+			<stop offset="0.421" stop-color="#fa8042"/>
+			<stop offset="0.5" stop-color="#fe8643"/>
+			<stop offset="0.58" stop-color="#fa7f42"/>
+			<stop offset="0.696" stop-color="#ef6c3e"/>
+			<stop offset="0.833" stop-color="#dc4c37"/>
+			<stop offset="0.916" stop-color="#cf3633"/>
+		</linearGradient>
+	</defs>
+	<g id="part_2" title="part_0" ie-ports="left:simulink*simulink*simulink,top:,right:simulink*simulink,bottom:">
+		<path id="path_4" style="fill:#49d" d=" M 2,17.55 L 9.969999999999999,14.33 A 20.7,20.7 0 0 1  12.69,11.379999999999999 C 13.35,11.03 14.59,11.219999999999999 16.86,8.399999999999999 C 19.06,5.649999999999999 19.759999999999998,3.299999999999999 20.79,3.299999999999999 C 22.419999999999998,3.299999999999999 23.619999999999997,6.8199999999999985 25.439999999999998,12.149999999999999 A 115.63,115.63 0 0 0  30,24.12 C 28.1,22.35 26.48,20.44 24.63,20.490000000000002 C 22.91,20.53 21,22.57 18.91,25.19 C 17.25,27.290000000000003 15.05,28.73 14.190000000000001,28.700000000000003 C 14.190000000000001,28.700000000000003 11.97,22.42 10.110000000000001,21.400000000000002 A 2.64,2.64 0 0 0  7.720000000000001,21.6 L 2,17.54 L 2,17.55 Z"/>
+		<path id="path_5" style="fill:url(#a)" d=" M 19.8,4.02 C 19.13,4.92 18.32,6.569999999999999 16.86,8.399999999999999 C 14.59,11.219999999999999 13.36,11.029999999999998 12.69,11.379999999999999 A 19.67,19.67 0 0 0  9.969999999999999,14.329999999999998 L 13.27,16.74 C 16.07,12.919999999999998 17.57,8.779999999999998 18.74,6.099999999999998 A 13.58,13.58 0 0 1  19.8,4.02 Z"/>
+		<path id="path_6" style="fill:url(#b)" d=" M 20.79,3.299999999999999 C 18.61,3.299999999999999 17.12,14.780000000000001 9.069999999999999,21.19 C 11.329999999999998,20.82 13.29,26.43 14.189999999999998,28.700000000000003 C 18.189999999999998,28.020000000000003 21.389999999999997,20.370000000000005 24.619999999999997,20.490000000000002 C 26.47,20.560000000000002 28.089999999999996,22.35 29.99,24.12 C 25.65,15 23.619999999999997,3.299999999999999 20.79,3.299999999999999 Z"/>
+	</g>
+</svg>
